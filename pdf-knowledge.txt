@@ -1,0 +1,414 @@
+=== 第1页 ===
+中华消化外科杂志 年 月第 卷第 期 · ·
+2025 4 24 4 Chin J Dig Surg, April 2025, Vol. 24, No. 4 429
+·指南与共识·
+结直肠癌腹膜转移诊治专家共识（ 版）
+2025
+中国医师协会结直肠肿瘤专业委员会
+通信作者：熊斌，武汉大学中南医院胃肠外科，武汉 ， ：
+430071 Email binxiong1961@whu.
+；王锡山，国家癌症中心 国家肿瘤临床医学研究中心 中国医学科学院北京协和
+edu.cn
+医学院肿瘤医院结直肠外科，北京 ， ：
+100021 Email wxshanl208@126.com
+【摘要】 结直肠癌是我国常见的恶性肿瘤之一，发病率和死亡率分别位居全部恶性肿瘤的第 位
+2
+和第 位。转移和复发是导致患者死亡的主要原因。腹膜是结直肠癌常见的转移部位，仅次于肝转移
+4
+和肺转移，但其预后远差于肝转移和肺转移。结直肠癌腹膜转移早期诊断困难，症状重，预后差，其规范
+化诊治对改善患者的预后和提高生命质量至关重要。中国医师协会结直肠肿瘤专业委员会基于循证医
+学证据，对《结直肠癌腹膜转移诊治中国专家共识（ 版）》进行修订，在结直肠癌腹膜转移的定义、诊
+2022
+断、治疗及预防等方面达成共识，以期指导和规范结直肠癌腹膜转移的诊疗，制订合理有效的综合治疗
+方案，延长结直肠癌腹膜转移患者生存时间并提高生命质量，提高我国结直肠癌的整体诊治水平。
+【关键词】 结肠肿瘤； 直肠肿瘤； 腹膜转移； 诊断； 治疗； 共识
+基金项目：国家临床重点建设专科（武汉大学中南医院普外科）专项基金；国家疑难病症诊治能力
+提升工程建设项目（武汉大学中南医院肿瘤方向）专项基金
+Expert consensus on the diagnosis and treatment of colorectal cancer peritoneal metastasis
+(2025 edition)
+Colorectal Cancer Professional Committee, Chinese Medical Doctor Association
+Correspongding authors: Xiong Bin, Department of Gastrointestinal Surgery, Zhongnan Hospital of Wuhan
+University, Wuhan 430071, China,Email: binxiong1961@whu.edu.cn; Wang Xishan, Department of Colo-
+rectal Surgery, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital,
+Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China, Email:
+wxshanl208@126.com
+【Abstract】 Colorectal cancer (CRC) is one of the most common malignant tumors in China,
+ranking second in morbidity and fourth in mortality. Metastasis and recurrence are the leading causes
+of patient death, and the peritoneum is a frequent site of metastasis in CRC, second only to liver and
+lung metastases. However, the prognosis of peritoneal metastasis is much worse than hepatic and
+pulmonary metastasis. CRC peritoneal metastasis is challenging hard to diagnose early, presents
+with severe symptoms, and has a poor prognosis. It is crucial to emphasize standardized diagnosis
+and treatment for CRC peritoneal metastasis in order to improve outcome and enhance quality of life
+of patients. The Colorectal Cancer Professional Committee of Chinese Medical Doctor Association,
+based on evidence‐based medical evidence, has revised the "Chinese expert consensus on the diagnosis
+and treatment of colorectal cancer peritoneal metastasis (2022 edition)" and reached consensus on
+the definition, diagnosis, treatment, and prevention of CRC peritoneal metastasis, with the aim of
+guiding and standardizing the diagnosis and treatment of CRC peritoneal metastasis, developing
+reasonable and effective comprehensive treatment plans, prolonging survival time and improving
+quality of life for CRC peritoneal metastasis patients, and raising the overall level of diagnosis and
+treatment for CRC in China.
+【Key words】 Colonic neoplasms; Rectal neoplasms; Peritoneal metastasis; Diagnosis;
+Treatment; Consensus
+DOI：
+10.3760/cma.j.cn115610-20250304-00083
+收稿日期
+2025-03-04
+引用本文：中国医师协会结直肠肿瘤专业委员会 结直肠癌腹膜转移诊治专家共识（ 版 中华消
+. 2025 )[J].
+化外科杂志
+, 2025, 24(4): 429-437. DOI: 10.3760/cma.j.cn115610-20250304-00083.
+
+=== 第2页 ===
+· · 中华消化外科杂志 年 月第 卷第 期
+430 2025 4 24 4 Chin J Dig Surg, April 2025, Vol. 24, No. 4
+Fund program: National Clinical Key Construction Specialty (General Surgery Department, Zhongnan
+Hospital of Wuhan University) Special Fund; National Project for Enhancing
+the Diagnosis and Treatment Capability of Difficult and Complex Diseases
+(Oncology Focus, Zhongnan Hospital of Wuhan University) Special Fund
+结直肠癌是常见恶性肿瘤之一，严重威胁人 肠癌领域权威专家制订《结直肠癌腹膜转移诊治中
+类健康。全世界每年约有 例新发病例，约 国专家意见（ 版）》， 年修订为《结直肠癌
+1 926 118 2017 2022
+例死于结直肠癌［］。国家癌症中心 年 腹膜转移诊治中国专家共识（ 版）》。鉴于结
+1
+903 859 2024 2022
+发布的统计数据显示： 年我国结直肠癌新发病 直肠癌腹膜转移的研究进展，中国医师协会结直肠
+2022
+例为 万，居恶性肿瘤发病例数的第 位，发病 肿瘤专业委员会组织国内多学科专家对 版共
+57.71 2 2022
+率为 万；死亡病例 万，死亡率为 万， 识进行研讨更新，制订了《结直肠癌腹膜转移诊治
+20.1/10 24 8.56/10
+居第 位［］。转移和复发是结直肠癌患者死亡的主 专家共识（ 版）》（以下简称本共识）。本共识
+2
+4 2025
+要原因，腹膜是结直肠癌常见的转移部位，仅次于 参考 协作网推荐分级评估、制订与评价系
+GRADE
+肝转移和肺转移，但预后远差于肝转移和肺转移。 统，即 分级标准，对证据质量和推荐意见进
+GRADE
+结直肠癌腹膜转移是指结直肠癌原发灶的癌细胞 行分级，证据质量等级分为“ 、、、”级，推荐
+A B C D 4
+直接脱落和（或）经血管、淋巴管脱落种植于腹膜形 强度为“强推荐”和“弱推荐”（表 ）［］。
+8
+1
+成新病灶。有 的结直肠癌初诊时即伴有 一、结直肠癌腹膜转移的定义
+7%~15%
+腹膜转移， 的患者在根治术后发生腹膜转 推荐意见1：结直肠癌腹膜转移是指原发灶的
+4%~19%
+移［ ］。结直肠癌腹膜转移患者预后差，确诊后如果 癌细胞脱落种植于腹膜，形成新的肿瘤病灶。（证据
+3‑4
+得不到积极治疗，其中位总生存时间仅为 个月， 质量：A；推荐级别：强推荐）
+6~9
+腹膜转移越严重预后越差，生存期越短［ ］。在 世 种子土壤学说最早在 年由 提出，被
+5‑7
+20 1889 Paget
+纪 年代之前，腹膜转移被认为是治疗无效的终 认为是腹膜转移最主要的假说理论［ ］。该理论认
+9‑10
+90
+末期，通常仅姑息性对症治疗，而全身系统化疗由 为，腹膜转移是一个多阶段、多步骤、多因素参与的
+于腹膜屏障作用导致疗效极差［ ］。随着研究的深 过程。主要包括：（）癌细胞突破浆膜层脱落到腹
+5‑7
+1
+入，新型药物和治疗技术的创新和改进，对结直肠 腔。（）癌细胞黏附于腹膜。（）癌细胞在腹膜侵袭，
+2 3
+癌腹膜转移患者采取积极治疗手段，部分肿瘤负荷 促进周围新生血管形成，发展为转移灶。腹腔游离
+较低的患者预后得到显著改善。采用腹膜癌指数 癌细胞的来源主要包括：（）肿瘤侵袭生长过程中
+1
+（ ， ）评估结直肠癌腹膜转 突破浆膜层自然脱落。（）经由血管、淋巴管或淋巴
+peritoneal cancer index PCI 2
+移的肿瘤负荷，进而施行肿瘤细胞减灭术联合腹腔 结脱落。（）手术过程中因操作不当，如挤压、牵拉肿
+3
+热灌注化疗、腹腔灌注化疗、全身化疗、靶向治疗及 瘤，导致医源性播散，进而引发腹膜种植转移［ ］。
+9‑10
+免疫治疗等多种治疗手段，形成多学科综合治疗策 推荐意见2：结直肠癌初诊时即伴有腹膜转移
+略，为结直肠癌腹膜转移患者提供有效的治疗方案。 为同时性腹膜转移，根治术后发生的腹膜转移为异
+为规范结直肠癌腹膜转移的诊治，中国医师协 时性腹膜转移，经规范的术前影像学检查未发现，
+会结直肠肿瘤专业委员会于 年组织国内结直 而术中诊断的腹膜转移为临床隐匿性腹膜转移。
+2017
+表1 推荐分级的评估、制订与评价证据质量描述［
+8
+］
+Table1 ［ 8 ］
+Rating the quality of evidence in grades of recommendation, assessment, development, and evaluation guideline
+分 级 描 述
+证据质量分级
+高级证据（ ） 非常确信真实的效应值接近效应估计值
+A
+中级证据（） 对效应估计值有中等程度的信心：真实值有可能接近估计值，但仍存在两者大不相同的可能性
+B
+低级证据（） 对效应估计值的确信程度有限：真实值可能与估计值大不相同
+C
+极低级证据（ ） 对效应估计值几乎没有信心：真实值很可能与估计值大不相同
+D
+推荐强度分级
+强推荐 明确显示干预措施利大于弊或者弊大于利
+弱推荐 利弊不确定，或无论质量高低的证据均显示利弊相当
+
+=== 第3页 ===
+中华消化外科杂志 年 月第 卷第 期 · ·
+2025 4 24 4 Chin J Dig Surg, April 2025, Vol. 24, No. 4 431
+（证据质量：A；推荐级别：强推荐） 可以发现小的腹膜转移结节，有助于提高结直肠癌
+的结直肠癌初诊时即伴有腹膜转移， 腹膜转移诊断率［ ］。 检查在低张和呼吸训练
+18
+7%~15% MRI
+的患者在根治术后发生腹膜转移［ ］。薄 控制运动干扰的前提下可显示腹膜结构，建议应用
+3‑4
+4%~19%
+层增强 是术前检查有无腹膜转移最常用的手 扩散加权成像（ ， ），
+CT diffusion weighted imaging DWI
+段，灵敏度和特异度均较高，但仍有 的患 能更准确评估肿瘤负荷，灵敏度及特异度分别为
+10%~30%
+者术前 检查诊断为无腹膜转移的进展期结直肠 和 ［ ］。 检查在结直肠癌的诊
+19
+CT 90.0% 95.5% PET/MRI
+癌，术中探查时发现腹膜转移。这部分术前影像学 断和治疗监测中具有显著优势，它不仅提供低辐
+检查未发现，而术中探查明确腹膜转移患者，定义 射、高软组织分辨率的成像，还能同机分析 等
+DWI
+为临床隐匿性腹膜转移［ ］。 参数，并结合 探针的显像结果，为医师提
+11‑12
+MRI PET
+二、结直肠癌腹膜转移的诊断 供更全面的评估和更精确的治疗指导［ ］。此外可
+20
+结直肠癌腹膜转移需结合病史、临床表现、影 行胃肠道动态造影检查，观察小肠蠕动、分布状况，
+像学、肿瘤标志物和内镜检查进行诊断，对可疑患 造影剂通过各段小肠时间，小肠系膜挛缩情况［ ］。
+21
+者可采取手术探查（腹腔镜探查或开腹探查）进行 推荐意见5：血清肿瘤标志物可作为结直肠癌
+诊断，结直肠癌腹膜转移需要与腹膜结核及硬化性 腹膜转移的辅助诊断手段。（证据质量：A；推荐级
+腹膜炎进行鉴别诊断。 别：强推荐）
+推荐意见3：结直肠癌腹膜转移典型症状是难 血清肿瘤标志物检测对结直肠癌腹膜转移
+治性腹水、持续性肠梗阻和顽固性腹痛。（证据质 的诊断和治疗具有重要辅助作用， 、 、
+CEA CA125
+量：A；推荐级别：强推荐） 联合检测可以提高灵敏度和特异度［
+22‑24
+］。
+CA19‑9
+结直肠癌腹膜转移早期肿瘤负荷较小时没有 可以辅助判断肿瘤的侵袭程度； 可以
+CEA CA19‑9
+明显症状，当肿瘤进展到一定程度，肿瘤负荷较大 辅助判断腹水中或原发灶癌细胞的增生活性；
+时，可出现难治性腹水、持续性肠梗阻和顽固性腹 可以辅助判断腹水形成和腹膜癌肿瘤负荷
+CA125
+痛等典型的腹膜癌症状。肿瘤负荷越大，上述症状 程度，并且 的阳性预测值显著高于其他标志
+CA125
+越严重。 物［ ］。结直肠癌合并 、 、 明显
+22‑24
+CEA CA125 CA19‑9
+推荐意见4：全腹+盆腔薄层增强CT作为结直 升高而没有其他部位转移时，需高度怀疑腹膜转移
+肠癌腹膜转移的首选影像学检查方法。（证据质量： 可能。结直肠癌患者在术后随访过程中出现持续
+A；推荐级别：强推荐） 性肿瘤标志物升高且无其他部位转移复发时，也需
+薄层增强 检查诊断结直肠癌腹膜转移的灵 高度怀疑腹膜转移可能。
+CT
+敏度为 ，特异度为 ，但 检 推荐意见6：手术探查（开腹或腹腔镜）是诊断
+25%~100% 78%~100% CT
+查对于体积较小的腹膜结节的诊断存在局限性，对 可疑腹膜转移及评估腹膜转移程度的最可靠手段，
+于直径 的腹膜转移结节， 检查诊断的灵敏 有助于临床治疗方案的决策。（证据质量：A；推荐
+<5 mm CT
+度仅为 ［ ］。结直肠癌腹膜转移的典型 级别：强推荐）
+11‑13
+11%~48%
+征象包括腹膜不均匀增厚伴腹膜结节；网膜或大网 腹膜转移早期常规影像学检出率低，手术探查
+膜多发条索、结节；肠系膜结节状增厚；腹盆腔大量 （腹腔镜或开腹）是评估腹膜转移肿瘤负荷的最可
+积液等直接征象以及胆管、输尿管和肠管扩张等间 靠方式，尤其是对临床隐匿性腹膜转移的检出，灵
+接征象［ ］。 多平面重建有助于明确腹膜转移的 敏度和特异度均较高，能够较准确地评估腹膜转移
+13‑15
+CT
+位置和分布，结合 检查表现，可估算术前 评 的肿瘤负荷，助力临床治疗方案的决定，同时还可
+CT CT‑PCI
+分，以判断患者腹膜转移的肿瘤负荷［ ］。除常规 以进行腹腔游离癌细胞检测和腹膜结节活检，为分
+13‑15
+检查外，还可以考虑 检查，其灵敏度和 子检测提供标本［ ］。
+12
+CT PET/CT
+特异度分别为 和 ［
+15‑17
+］。 推荐意见7：PCI和腹膜表面疾病严重程度评
+78%~97% 55%~90% PET/CT
+的检测效能取决于癌细胞对 18 氟代脱氧葡萄糖的 分（peritoneal surface disease severity score，PSDSS）
+F
+摄取率，与葡萄糖转运体 （ ， 可评估结直肠癌腹膜转移的肿瘤负荷。（证据质量：
+1 glucose transporter‑1
+）表达有关［
+16‑18
+］。印戒细胞癌、黏液腺癌和低 A；推荐级别：强推荐）
+GLUT1
+分化腺癌是最常见的腹膜转移组织学类型，而 腹膜转移的肿瘤负荷评分系统主要包括 和
+GLUT1 PCI
+在上述组织类型中表达极低［ ］。使用成纤维细 。 是通过量化腹膜癌肿瘤负荷的评分体
+17‑18
+PSDSS PCI
+胞激活蛋白抑制剂作为 新型代谢造影剂， 系，总结性描述了腹、盆腔 个区域中，肿瘤种植
+PET/CT 13
+
+=== 第4页 ===
+· · 中华消化外科杂志 年 月第 卷第 期
+432 2025 4 24 4 Chin J Dig Surg, April 2025, Vol. 24, No. 4
+结节的大小及分布情况，量化了腹膜表面肿瘤的严 表2 腹膜表面疾病严重程度评分标准［ 26 ］
+重程度。腹膜病灶大小评分（ ， ）分 Table 2
+Evaluation criteria of peritoneal surface
+lesion size score LS ［ ］
+为 级： ：未见肿瘤； ：肿瘤长径 ； disease severity 26
+4 LS 0 LS 1 ≤0.5 cm LS
+评价指标 腹膜表面疾病严重程度评分（分）
+： 肿瘤长径 ； ：肿瘤长径
+2 0.5 cm< ≤5.0 cm LS 3 >5.0 cm 临床症状a
+或融合成团， 即为每个区 评分的总和，最高
+PCI LS 无
+，最低 （肉眼未见转移结节）。见图 ［ ，］。 评 0
+1325
+39 0 1 PCI 轻微
+分与预后密切相关，同时也是能否行肿瘤细胞减灭 1
+严重
+6
+术的重要指标。 评分越高，行彻底性肿瘤细胞
+PCI
+腹膜癌指数b
+减灭术的可能性越小，预后越差。
+<10 1
+是基于患者临床症状、腹膜播散程度和
+PSDSS 10~20 3
+原发灶的组织病理学特征的评分体系（表 ）［ ］。
+2 26 >20 7
+根据各项总分，将 进行分期： 期为 组织病理学特征c
+PSDSS PSDSS Ⅰ
+， ， ，
+分； 期为 分； 期为 分； G1/2 N‒ L‒ V‒ 1
+2~3 PSDSS Ⅱ 4~7 PSDSS Ⅲ 8~10
+， 和（或） 和（或）
+期为 分。 是腹膜转移患者的独 G2 N+ L+ V+ 3
+PSDSS Ⅳ >10 PSDSS ，印戒细胞癌
+立预后因素。 G3 9
+注：a临床症状轻微：体质量减轻 ，轻度腹痛，少量腹
+三、结直肠癌腹膜转移的治疗 <10%
+水；严重：体质量减轻 ，持续腹痛，肠梗阻，症状
+≥10%
+结直肠癌腹膜转移的治疗需要根据肿瘤负荷 性腹水；b腹膜癌指数：通过影像学检查或术中评估；
+选择不同的多学科综合治疗模式。全身治疗与局 c ：淋巴结阴性阳性， ：淋巴管侵犯阴性阳
+N‒/+ / L‒/+ /
+性， ：血管侵犯阴性阳性
+部治疗相结合。 V‒/+ /
+（一）全身系统治疗 全身系统治疗包括化疗、靶向治疗、免疫治疗
+推荐意见8：全身系统治疗参考转移性结直肠 和对症支持治疗等。对于能够耐受高强度治疗的
+癌的治疗方法，包括化疗、靶向治疗和免疫治疗等 患者，推荐选择 、 、 或
+mFOLFOX6 CAPEOX FOLFIRI
+方式。（证据质量：A；推荐级别：强推荐） ，联合或不联合靶向药物或免疫治疗［
+27
+］。
+FOLFOXIRI
+注： 为病灶大小评分
+LS
+图1 腹膜癌指数分期系统［ 13 ］
+Figure 1 ［ 13 ］
+Staging system of peritoneal cancer index
+
+=== 第5页 ===
+中华消化外科杂志 年 月第 卷第 期 · ·
+2025 4 24 4 Chin J Dig Surg, April 2025, Vol. 24, No. 4 433
+化疗 克隆抗体或贝伐珠单克隆抗体治疗。
+1.
+（）一线化疗方案 西妥昔单克隆抗体，靶向药物方案和剂量同
+1 ②
+（ 周 疗程）：奥沙利铂 静 前。仅适用于一线治疗中未联合西妥昔单克隆抗
+2
+①mFOLFOX6 2 / 85 g/m
+脉滴注 ；亚叶酸钙 静脉滴注 ； 体且 和 均为野生型晚期结直肠癌。
+2
+2 h d1 400 mg/m 2 h d1 RAS BRAF
+氟尿嘧啶 静脉推注 ， （ ） 免疫治疗
+2 2
+400 mg/m d1 1 200 mg/ m·d 3.
+持续静脉滴注 （总量 持续静脉滴注 微卫星不稳定性（ ， ）
+2
+d×2 2 400 mg/m microsatellite instability MSI
+）。 和 错配修复状态（ ， ）是预
+46~48 h DNA mismatch repair MMR
+（ 周 疗程）：奥沙利铂 静 测免疫治疗疗效的最佳指标。微卫星稳定性状态
+2
+②CAPEOX 3 / 130 mg/m
+脉滴注 ；卡培他滨 口服 。 分为高度 型（ ， ）、低度 型（
+2
+>2 h d1 1 000 mg/m BID d1~14 MSI MSI‑high MSI‑H MSI MSI‑
+（ 周 疗程）：伊立替康 ， ）和微卫星稳定型（ ，
+2
+③FOLFIRI 2 / 180 mg/m low MSI‑L microsatellite stability
+静脉滴注 ；亚叶酸钙 静脉 ）。 分为缺陷型 （ ， ）
+2
+>30~90 min d1 400 mg/m MSS MMR MMR deficient MMR dMMR
+滴注 （伊立替康滴注后立即接） ；氟尿嘧啶 和正常型 （ ， ）。
+2 h d1 MMR proficiency of MMR pMMR MSI‑H
+静脉推注 ， （ ）持续静脉 型结直肠癌属于“热肿瘤”，对免疫治疗有良好的疗
+2 2
+400 mg/m d1 1 200 mg/ m·d
+滴注 （总量 持续静脉滴注 ）。 效。 、 、 型结直肠癌的免疫治疗目
+2
+d×2 2 400 mg/m 46~48 h MSI‑L MSS pMMR
+（ 周 疗程）：伊立替康 前尚无高级别循证医学证据。
+2
+④FOLFOXIRI 2 / 165 mg/m
+静脉滴注 ；奥沙利铂 静脉滴注 ；亚叶 （二）腹腔化疗
+2
+d1 85 mg/m d1
+酸钙
+2
+静脉滴注 ；氟尿嘧啶总量 推荐意见9：常用的腹腔化疗方式主要包括腹
+400 mg/m d1 2 400~
+持续静脉滴注 。 腔热灌注化疗和常温腹腔灌注化疗等形式。（证据
+2
+3 200 mg/m d1 48 h
+（）二线化疗方案 质量：A；推荐级别：强推荐）
+2
+（ 周 疗程）或 （ 周 疗 由于存在腹膜 血浆屏障，腹腔内可以灌注较
+①mFOLFOX6 2 / CAPEOX 3 / ‑
+程）：具体化疗剂量同上，适用于一线接受伊立替康 高浓度的化疗药物用于清除肿瘤细胞，而不会引起
+治疗失败的患者。 严重的系统性毒性，但腹腔内化疗药物的被动穿透
+（ 周 疗程）：具体化疗剂量同上，适 只有 。因此，为提高局部治疗的疗效，可以
+②FOLFIRI 2 / 1~3 mm
+用于一线接受奥沙利铂治疗失败的患者。 采取腹腔热灌注化疗和常温腹腔灌注化疗等形式。
+奥沙利铂 雷替曲塞适用于氟尿嘧啶不能 腹腔热灌注化疗以提高温度增加药物的穿透力，常
+③ +
+耐受患者（ 周 疗程）：奥沙利铂 静脉滴注 温腹腔灌注化疗在腹壁植入化疗泵，以固定的频率
+2
+2 / 85 mg/m
+；雷替曲塞 静脉滴注 。 分次灌入化疗药物，具有创伤性小、作用时间长、灵
+2
+2 h d1 2 mg/m 15 min d1
+伊立替康 雷替曲塞适用于氟尿嘧啶不能耐 活方便以及门诊即可用药等优势。
+④ +
+受患者（ 周 疗程）：伊立替康
+2
+静脉滴注 推荐意见10：腹腔热灌注化疗建议选择闭合
+2 / 180 mg/m >
+；雷替曲塞
+2
+静脉滴注 。 式，灌注速度为400~600 mL/min，有效灌注液为4~
+30~90 min d1 2 mg/m 15 min d1
+靶向治疗 6 L，以腹腔充盈为原则，并维持腹腔内化疗药液温
+2.
+（）一线治疗方案 度为（43±0.1）℃，持续60~90 min，术后根据患者具
+1
+贝伐珠单克隆抗体：用于原发灶位于右半 体情况可多次灌注，每次治疗间隔24 h。（证据质
+①
+结肠或原发灶位于左半结肠且 或 突变 量：A；推荐级别：强推荐）
+RAS BRAF
+型患者。两种给药方式： 静脉滴注 年 等［ ］首次报道采用腹腔热灌注
+28
+A. 7.5 mg/kg d1 1980 Spratt
+（ 周 疗程）。 静脉滴注 （ 周 疗程）。 化疗治疗腹腔恶性肿瘤，将含化疗药物的灌注液加
+3 / B. 5 mg/kg d1 2 /
+西妥昔单克隆抗体：用于原发灶位于左半 热到治疗温度（ ） 、灌注到患者腹腔内并维
+② 43±0.1 ℃
+结直肠且 和 均为野生型的患者。两种 持一定时间。近年来该技术方法不断改进，逐渐演
+RAS BRAF
+给药方式： 首次静脉滴注 ，后续为 变为目前精准的腹腔热灌注治疗技术，已经成为成
+2
+A.400 mg/m >2 h
+静脉滴注 （ 周疗程）。 熟的临床应用技术，在腹膜肿瘤及其并发的恶性腹
+2 2
+250 mg/m >60 min 1 / B.500 mg/m
+静脉滴注 （ 周 疗程）。 水的预防和治疗方面具有独特疗效。
+>2 h d1 2 /
+（）二线治疗方案 腹腔热灌注化疗的原理是癌细胞处于 环
+2 43 ℃
+贝伐珠单克隆抗体，靶向药物方案和剂量同 境中，持续被液体浸泡和冲刷，可出现不可逆损伤，
+①
+前。适用于一线治疗失败的结直肠癌患者，无论 正常组织能在 高温中耐受 ，利用不同组织
+47 ℃ 1 h
+和 的表型，无论一线是否联合西妥昔单 温度耐受差异以特定温度进行肿瘤定向杀伤［ ］。
+27
+RAS BRAF

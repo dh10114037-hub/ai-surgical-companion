@@ -4,7 +4,7 @@ import {
   Sparkles, Copy, Share2, Download, FileText, MessageSquare, Users,
   ChevronRight, ChevronUp, ChevronDown, BookMarked, CircleCheck
 } from 'lucide-react';
-import type { Video, VideoKeyNode, Citation } from '@/types/video';
+import type { Video } from '@/types/video';
 import { mockKeyNodes, mockCitations } from '@/types/video';
 
 interface VideoDetailProps {
