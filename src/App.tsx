@@ -1,14 +1,16 @@
 import { useState, useEffect } from 'react';
-import type { Expert } from '@/types';
+import type { Expert, Video } from '@/types';
 import { loadExperts, saveExperts } from '@/lib/ollama';
 import ExpertList from '@/sections/ExpertList';
 import ExpertDetail from '@/sections/ExpertDetail';
 import CreateExpert from '@/sections/CreateExpert';
 import ChatRoom from '@/sections/ChatRoom';
 import Settings from '@/sections/Settings';
+import VideoLibrary from '@/sections/VideoLibrary';
+import VideoDetail from '@/sections/VideoDetail';
 import { Video, Users, Search, User } from 'lucide-react';
 
-export type View = 'list' | 'detail' | 'create' | 'chat' | 'settings';
+export type View = 'list' | 'detail' | 'create' | 'chat' | 'settings' | 'video-library' | 'video-detail';
 
 interface TabItem {
   id: string;
@@ -30,6 +32,7 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('expert');
   const [selectedExpert, setSelectedExpert] = useState<Expert | null>(null);
   const [editingExpert, setEditingExpert] = useState<Expert | null>(null);
+  const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
 
   useEffect(() => {
     setExperts(loadExperts());
@@ -79,11 +82,22 @@ export default function App() {
     if (tab.id === 'expert') {
       setActiveView('list');
       setSelectedExpert(null);
+    } else if (tab.id === 'video') {
+      setActiveView('video-library');
+      setSelectedVideo(null);
     }
   };
 
+  const handleSelectVideo = (video: Video) => {
+    setSelectedVideo(video);
+    setActiveView('video-detail');
+  };
+
   const handleBack = () => {
-    if (activeView === 'chat') {
+    if (activeView === 'video-detail') {
+      setActiveView('video-library');
+      setSelectedVideo(null);
+    } else if (activeView === 'chat') {
       setActiveView('detail');
     } else if (activeView === 'detail') {
       setActiveView('list');
@@ -96,8 +110,8 @@ export default function App() {
     }
   };
 
-  // Hide bottom nav when in chat/create/settings views
-  const showBottomNav = activeView === 'list' || activeView === 'detail' || activeView === 'settings';
+  // Hide bottom nav when in chat/create/settings/views views
+  const showBottomNav = activeView === 'list' || activeView === 'detail' || activeView === 'settings' || activeView === 'video-library';
 
   return (
     <div className="bg-muted/30 min-h-screen">
@@ -105,6 +119,12 @@ export default function App() {
       <div className="max-w-md mx-auto min-h-screen bg-background flex flex-col shadow-2xl relative overflow-hidden border-x border-border">
         {/* Main Content */}
         <main className="flex-1 overflow-y-auto pb-20">
+          {activeView === 'video-library' && (
+            <VideoLibrary onSelectVideo={handleSelectVideo} />
+          )}
+          {activeView === 'video-detail' && selectedVideo && (
+            <VideoDetail video={selectedVideo} onBack={handleBack} />
+          )}
           {activeView === 'list' && (
             <ExpertList
               experts={experts}
