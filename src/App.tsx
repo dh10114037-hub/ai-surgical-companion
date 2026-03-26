@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
-import type { Expert, Video } from '@/types';
+import type { Expert } from '@/types';
+import type { Video as VideoType } from '@/types/video';
 import { loadExperts, saveExperts } from '@/lib/ollama';
 import ExpertList from '@/sections/ExpertList';
 import ExpertDetail from '@/sections/ExpertDetail';
@@ -32,7 +33,7 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('expert');
   const [selectedExpert, setSelectedExpert] = useState<Expert | null>(null);
   const [editingExpert, setEditingExpert] = useState<Expert | null>(null);
-  const [selectedVideo, setSelectedVideo] = useState<Video | null>(null);
+  const [selectedVideo, setSelectedVideo] = useState<VideoType | null>(null);
 
   useEffect(() => {
     setExperts(loadExperts());
@@ -88,7 +89,7 @@ export default function App() {
     }
   };
 
-  const handleSelectVideo = (video: Video) => {
+  const handleSelectVideo = (video: VideoType) => {
     setSelectedVideo(video);
     setActiveView('video-detail');
   };

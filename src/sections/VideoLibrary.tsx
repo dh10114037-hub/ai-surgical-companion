@@ -1,10 +1,9 @@
 import { useState } from 'react';
-import { Search, Play, CheckCircle, Eye, Bookmark, Grid, List } from 'lucide-react';
-import { Video, Sparkles, Users } from 'lucide-react';
-import { mockVideos, mockVideoStats, type Video } from '@/types/video';
+import { Search, Play, CheckCircle, Eye, Bookmark, Grid, List, Video, Sparkles, Users } from 'lucide-react';
+import { mockVideos, mockVideoStats, type Video as VideoType } from '@/types/video';
 
 interface VideoLibraryProps {
-  onSelectVideo: (video: Video) => void;
+  onSelectVideo: (video: VideoType) => void;
 }
 
 export default function VideoLibrary({ onSelectVideo }: VideoLibraryProps) {

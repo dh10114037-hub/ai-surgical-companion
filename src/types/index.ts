@@ -1,3 +1,5 @@
+export * from './video';
+
 export interface Expert {
   id: string;
   name: string;

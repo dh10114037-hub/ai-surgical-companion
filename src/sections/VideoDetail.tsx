@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { 
   ChevronLeft, Play, Volume2, Settings, Maximize, 
   Sparkles, Copy, Share2, Download, FileText, MessageSquare, Users,
-  ChevronRight, ChevronUp, ChevronDown, BookMarked, CircleCheck, ExternalLink
+  ChevronRight, ChevronUp, ChevronDown, BookMarked, CircleCheck
 } from 'lucide-react';
 import type { Video, VideoKeyNode, Citation } from '@/types/video';
 import { mockKeyNodes, mockCitations } from '@/types/video';
